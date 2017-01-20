@@ -1,0 +1,3 @@
+[submodule "blaze-html"]
+	path = blaze-html
+	url = git@github.com:jaspervdj/blaze-html.git
