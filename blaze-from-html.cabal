@@ -23,8 +23,8 @@ Source-repository head
 
 Executable blaze-from-html
   Ghc-Options:    -Wall
-  Hs-source-dirs: src, blaze-html/src
-  Main-Is:        Util/BlazeFromHtml.hs
+  Hs-source-dirs: src blaze-html/src
+  Main-Is:        Main.hs
 
   Other-Modules:
     Util.GenerateHtmlCombinators
