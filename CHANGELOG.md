@@ -1,6 +1,9 @@
 CHANGELOG
 =========
 
+- 0.4.0.1 (2017-01-20)
+    * Fix homepage link
+
 - 0.4.0.0 (2017-01-20)
     * Move to a separate repository (with blaze-html as git submodule)
     * Backslashes in text escaped
